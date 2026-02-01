@@ -3,7 +3,7 @@
 #include <algorithm>
 using namespace std;
 
-/*
+
 int main() {
     int N;
     cin >> N;
@@ -29,4 +29,9 @@ int main() {
     cout << maxLen;
     return 0;
 }
-*/
+
+/*INPUT :
+6
+P A P A P P
+OUTPUT:
+4*/
